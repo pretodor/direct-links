@@ -1,4 +1,3 @@
-
 function saveTCoLinkNodesAndUrls(rootNode,
                                  tCoLinkNodes,
                                  urls) {
