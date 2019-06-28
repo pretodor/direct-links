@@ -1,2 +1,2 @@
 # Direct links
-Chrome extension that resolves link URLs to their final URLs
+Chrome extension that resolves shortened URLs to their final URLs
